@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 I’m currently learning: **Computer Vision and image processing**
-- 📫 How to reach me: **mohamedgadia00@gmail.com**
+- 📫 How to reach me: **abdodebo3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
