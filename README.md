@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Gadia</h1>
-<h3 align="center">A passionate software developer with a focus on data science, machine learning, web development, and MLOps. I thrive on building impactful solutions and optimizing workflows for efficiency.</h3>
+<h1 align="center">Hi 👋, I'm Abdulrhman Eldeeb</h1>
+<h3 align="center">A passionate software developer with a focus on data science, machine learning, web development,Data anlysis, and MLOps. I thrive on building impactful solutions and optimizing workflows for efficiency.</h3>
 
 <p align="center">
   <a href="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
@@ -7,17 +7,13 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on: **Collaborative filtering recommender systems and NLP projects.**
-- 🌱 I’m currently learning: **LLaMA2 fine-tuning, advanced time series forecasting techniques.**
-- 💬 Ask me about: **Python programming, MLOps principles, and real-time data processing.**
+- 🌱 I’m currently learning: **Computer Vision and image processing**
 - 📫 How to reach me: **mohamedgadia00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamedgadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedgadia" height="30" width="40" /></a>
-<a href="https://twitter.com/gadia_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gadia_7" height="30" width="40" /></a>
-<a href="https://instagram.com/gadia_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gadia_7" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/abdulrahman-eldeeb-8b4621253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrhman eldeeb" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
