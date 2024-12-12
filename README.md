@@ -3,8 +3,12 @@
 
 <p align="center">
   <a href="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
-    <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" alt="Coding GIF" width="400"/>
-  </a>
+    
+  <a href="https://dev-abdulrhmaneldeeb01.pantheonsite.io/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Globe_icon_white.svg" 
+         alt="website portfolio" height="30" width="40" />
+</a>
+
 </p>
 
 - 🌱 I’m currently learning: **Computer Vision and image processing**
