@@ -30,21 +30,27 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
 </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/> 
-</a>
+
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/> 
 </a>
-<a href="https://github.com/ultralytics/yolov5" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/ultralytics/yolov5/master/docs/images/logo.png" alt="YOLO" width="40" height="40"/> 
-</a>
+
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/> 
 </a>
-<a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/_static/img/langchain-logo-light.svg" alt="LangChain" width="40" height="40"/> 
+<a href="https://github.com/ultralytics/yolov5" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/ultralytics/assets/main/icon.png" alt="YOLO" width="40" height="40"/> 
 </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/> 
+</a>
+<a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/hwchase17/langchain/blob/master/docs/_static/img/favicon.png?raw=true" alt="LangChain" width="40" height="40"/> 
+</a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
+</a>
+
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
