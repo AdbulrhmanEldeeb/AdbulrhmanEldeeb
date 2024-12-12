@@ -5,8 +5,11 @@
   <a href="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
     
 <a href="https://dev-abdulrhmaneldeeb01.pantheonsite.io/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" 
-         alt="website portfolio" height="30" width="40" />
+    <img align="center" 
+         src="https://www.svgrepo.com/show/513811/globe.svg" 
+         alt="website portfolio" 
+         height="30" 
+         width="40" />
 </a>
 
 </p>
