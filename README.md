@@ -4,12 +4,12 @@
 <p align="center">
   <a href="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
     
+<!-- First, add this in your head section -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<!-- Then use this for the link -->
 <a href="https://dev-abdulrhmaneldeeb01.pantheonsite.io/" target="_blank">
-    <img align="center" 
-         src="https://www.svgrepo.com/show/513811/globe.svg" 
-         alt="website portfolio" 
-         height="30" 
-         width="40" />
+    <i class="fas fa-globe" style="font-size: 30px;"></i>
 </a>
 
 </p>
