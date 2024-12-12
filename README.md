@@ -12,6 +12,7 @@
 
 - 🌱 I’m currently learning: **Computer Vision and image processing**
 - 📫 How to reach me: **abdodebo3@gmail.com**
+- +20 102 682 1545 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,15 +39,11 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/> 
 </a>
-<a href="https://github.com/ultralytics/yolov5" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/ultralytics/assets/main/icon.png" alt="YOLO" width="40" height="40"/> 
-</a>
+
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/> 
 </a>
-<a href="https://langchain.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/hwchase17/langchain/blob/master/docs/_static/img/favicon.png?raw=true" alt="LangChain" width="40" height="40"/> 
-</a>
+
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
 </a>
@@ -84,7 +81,10 @@
 <h3 align="left">Projects:</h3>
 <ul>
   <li>📚 <strong>Book Recommender System</strong> – Built using collaborative filtering with Flask.</li>
-  <li>🎤 <strong>Speech Emotion Recognition</strong> – Detects live speech using machine learning classifiers.</li>
+  <li>🤖 <strong>Sentiment Analysis for Arabic Text</strong> – Analyzed reviews from various companies using machine learning and deep learning models.</li>
+  <li>🛒 <strong>WordPress E-Commerce Site</strong> – Developed a fully functional e-commerce platform for product sales.</li>
   <li>📈 <strong>Time Series Forecasting</strong> – Leveraged Python for predictive modeling of time-dependent data.</li>
+  <li>🔧 <strong>Fine-Tuning LLMs</strong> – Focused on fine-tuning large language models for domain-specific applications.</li>
+  <li>🔥 <strong>RAG for Heat Treatment</strong> – Applied retrieval-augmented generation (RAG) for optimizing heat treatment processes in manufacturing.</li>
 </ul>
 
